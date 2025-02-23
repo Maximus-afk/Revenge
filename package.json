@@ -15,8 +15,10 @@
     "framer-motion": "^10.16.4",
     "nanoid": "^5.0.1",
     "next": "^15.1.7",
+    "openai": "^4.85.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "replicate": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^20.8.0",
